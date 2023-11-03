@@ -1,0 +1,23 @@
+@media screen and (min-width: 1201px) 
+{
+    .site
+    {
+        max-width: 100%;
+    }    
+}
+@media screen and (min-width: 1025px) and (max-width: 1200.98px) 
+{
+    .site
+    {
+        max-width: 100%;
+    }
+    .text h3
+    {
+        font-size: 30px;
+        padding: 0 300px 0 0;
+    }    
+    .text
+    {
+        padding: 150px 50px;
+    }
+}
